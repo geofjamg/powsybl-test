@@ -6,7 +6,7 @@ import com.powsybl.loadflow.LoadFlow;
 
 public class Test {
     public static void main(String[] args) {
-        Network network = IeeeCdfNetworkFactory.create300();
+        Network network = IeeeCdfNetworkFactory.create14();
         LoadFlow.run(network);
     }
 }
