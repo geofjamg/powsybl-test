@@ -11,9 +11,6 @@
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <powsybl-core.version>4.6.1</powsybl-core.version>
-        <powsybl-open-loadflow.version>0.16.0</powsybl-open-loadflow.version>
-        <powsybl-network-area-diagram.version>0.2.0</powsybl-network-area-diagram.version>
     </properties>
 
     <dependencyManagement>
